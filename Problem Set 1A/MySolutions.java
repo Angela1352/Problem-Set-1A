@@ -10,7 +10,7 @@ public class MySolutions {
         double C, F;
         C = 30.0;
         F = C * 9/5 + 32;
-        System.out.println(C + "°C = " + F + " °F");
+        System.out.println(C + "°C = " + F + "°F");
     }
     
     public void elapsedTime() {
